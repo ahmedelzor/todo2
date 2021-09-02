@@ -1,0 +1,34 @@
+.layout{
+    background-image: url(../img/خلفيه\ 1.jpg);
+    background-size: 100% 100%;
+    /* background: linear-gradient(to bottom , rgb(18, 2, 31) 70% , rgb(149, 133, 163)); */
+    height: 150vh;
+    color: white;   
+}
+.dark{
+    background-image: url(../img/خلفيه\ 2.jpg);
+    background-size: 100% 100%;
+    /* background: linear-gradient(to bottom , rgb(2, 7, 31) 70% , rgb(99, 107, 177)); */
+    height: 150vh;
+    color: white;   
+}
+.card{
+    background-color: rgb(75, 11, 112);
+    color: white;
+
+}
+.card2{
+    background-color: rgb(7, 7, 59);
+    color: white;
+}
+.none{
+    display: none;
+    
+}
+.chack{
+    background-color: #333;
+}
+#mood{
+    width: 20px;
+    display: flex;
+}
